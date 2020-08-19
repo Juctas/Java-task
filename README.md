@@ -1,3 +1,3 @@
-# Java exercise for Danske Bank
+# Java task for Danske Bank
 
 ![Results](/Results.png "Results") .
